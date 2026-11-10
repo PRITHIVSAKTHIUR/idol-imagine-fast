@@ -4,6 +4,8 @@ Idol-Imagine-Fast is a dual-pipeline **Text-to-3D** and **Image-to-3D** generati
 
 Built on Gradio with ZeroGPU support and Flash Attention 2 acceleration, the workspace provides interactive 3D splat inspection, configurable Gaussian density tiers (from `65,536` up to `1,048,576` splats), synthetic vs. real-photo conditioning modes, and over 130 ready-to-run image and text examples.
 
+<img width="1314" height="918" alt="Screenshot From 2026-11-10 05-22-41" src="https://github.com/user-attachments/assets/d1c372cf-be6b-4ad2-aef2-f07f8daf08a9" />
+
 ### **Key Features**
 
 * **End-to-End Text-to-3D & Image-to-3D:** Generate a 2D concept image from text in 9 steps via `Tongyi-MAI/Z-Image-Turbo` or upload your own image, then reconstruct it into a 3D Gaussian splat via `speridlabs/idol`.
