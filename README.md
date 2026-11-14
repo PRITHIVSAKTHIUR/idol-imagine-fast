@@ -122,7 +122,7 @@ plyfile>=1.0
 tqdm>=4.66
 rerun-sdk==0.42.0
 gradio-rerun==0.42.0
-gradio==6.31.0
+gradio==6.32.0
 ```
 
 ### **Usage**
